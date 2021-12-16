@@ -60,7 +60,7 @@ export default function Home() {
                onClick={getData}
                className="mt-4 bg-green-500 px-5 py-3 text-sm shadow-sm font-medium tracking-wider  text-green-100 rounded-full hover:shadow-2xl hover:bg-green-600"
             >
-               Generate
+               Generate code
             </button>
          </main>
       </div>
